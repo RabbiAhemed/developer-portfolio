@@ -1,0 +1,47 @@
+#hey{
+    font-family: 'Caveat', cursive;
+    
+}
+#myname{
+    font-family: 'Caveat', cursive;
+font-family: 'Jost', sans-serif;
+font-family: 'PT Sans', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+    span{
+        font-family: 'Kalam', cursive;
+    }
+    h5{
+        font-family: 'Josefin Slab', serif;
+    }
+    section{
+        display: flex;
+    }
+    .half-width{
+        width: 50%;
+        padding-left: 10%;
+    }
+    .half-width img{
+        width: 50%;
+        padding-left: 0%;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(#f54905,#f505e9);
+        color: white;
+        font-weight: 700;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    .top-banner{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+    
+    }
+    body{
+        margin: 0;
+    }
